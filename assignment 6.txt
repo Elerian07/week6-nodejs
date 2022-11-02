@@ -1,0 +1,9 @@
+Assignment 6:-  
+Using mongoDB and Express 
+**Creat API to:
+ 1-GetAllUser done
+2-AddUser done
+3-UpdateByID done
+4-DeleteByID done
+5-GetUserByID done
+6-Search by name
