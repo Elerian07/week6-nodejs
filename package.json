@@ -1,0 +1,17 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment7.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon assignment7.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  }
+}
